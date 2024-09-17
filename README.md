@@ -18,7 +18,7 @@ Well, every coder’s got to start somewhere. This was mine. So, if you're in th
 
 1. Clone this:
    
-   git clone https://github.com/yourusername/first-python-program.git
+   git clone https://github.com/ahmedmakroum/ToDoApp.git
 
 2.Jump into the project directory:
 
